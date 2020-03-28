@@ -1,6 +1,6 @@
 # OSUHackathonSprng2020
 
-Team Memebers
+Team Memebers/n
 Lauren Work
 Kevin Gilpin
 Frederick Eley
